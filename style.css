@@ -596,7 +596,7 @@ footer{
 }
 
 #boxes .box img{
-	border: #ffffff 0.5px solid;
+	border: ##00D9D9 0.5px solid;
 	margin-top:15px;
   	width:100%;
  }
@@ -678,7 +678,7 @@ header{
 }
 
 #boxes .box img{
-	border: #ffffff 0.5px solid;
+	border: ##00D9D9 0.5px solid;
 	margin-top:15px;
   	width:95%;
  }
@@ -766,12 +766,12 @@ header{
 #boxes .box{
   float:center;
   text-align: center;
-  width:90%;
+  width:100%;
   border: #00D9D9;
 }
 
 #boxes .box img{
-	border: #ffffff 0.5px solid;
+	border: #00D9D9 0.5px solid;
 	margin-top:15px;
   	width:100%;
  }
