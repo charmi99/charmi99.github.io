@@ -737,9 +737,13 @@ header{
 
 
 #title_resume {
-	width: 34%;
+	width: 38%;
 }
 
+#resumeheader {
+ 	font-size: 26px;
+ 	/* border-bottom:#D3D3D3 2px solid; */
+}
 
 #aboutimage {
     padding-top: 50px;
