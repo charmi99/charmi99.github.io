@@ -710,7 +710,7 @@ header{
   }
 
   #showcase{
-  min-height:500px;
+  min-height:350px;
 
 }
 
@@ -795,11 +795,11 @@ header{
 
 #blockquotes .block p{
 	padding-left: 10px;
-	padding-top: 15px;
+	padding-top: 10px;
 	margin: auto;
-	width: 80%;
+	width: 85%;
 	border-left:#00c6c6 3px solid;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 	} 
 
 }
