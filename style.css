@@ -742,6 +742,10 @@ header{
 
 }
 
+.content img{
+	width: 70%;
+	/*border: #ffffff 0.5px solid;*/
+}
 
 #title_resume {
 	width: 42%;
