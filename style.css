@@ -222,7 +222,7 @@ padding-bottom: 5px;
 #title_resume {
 	padding-top: 5px;
 	text-align: center;
-	width: 24%;
+	width: 22%;
     border: #00D9D9 2px solid;
     padding-bottom: 5px;
 }
@@ -747,7 +747,7 @@ header{
 
 #aboutimage {
     padding-top: 20px;
-    width: 70%;
+    width: 80%;
     float: left;
     padding-bottom: 10px;
 }
@@ -755,11 +755,12 @@ header{
 
 #aboutdata {
     padding-top: 10px;
-    width: 90%;
+    width: 95%;
     float: left;
     font-size: 14px;
     text-align: left;
     color: #ffffff;
+    padding-bottom: 10px;
 }
 
 #aboutimage img{
