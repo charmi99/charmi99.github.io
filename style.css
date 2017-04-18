@@ -781,5 +781,26 @@ header{
   	width:100%;
  }
 
+ #blockquotes {
+
+	padding-top: 10px;
+	font-size: 20px;
+	color: #e37222;
+	text-align: left;
+	background-color: #000000;
+	padding-bottom: 10px;
+	;
+}
+
+
+#blockquotes .block p{
+	padding-left: 10px;
+	padding-top: 15px;
+	margin: auto;
+	width: 80%;
+	border-left:#00c6c6 3px solid;
+	padding-bottom: 15px;
+	} 
+
 }
 
