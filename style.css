@@ -736,6 +736,12 @@ header{
 }
 
 
+#project .container img{
+  min-height: 200px;
+
+}
+
+
 #title_resume {
 	width: 42%;
 }
