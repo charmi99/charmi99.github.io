@@ -737,7 +737,7 @@ header{
 
 
 #title_resume {
-	width: 38%;
+	width: 42%;
 }
 
 #resumeheader {
@@ -746,8 +746,8 @@ header{
 }
 
 #aboutimage {
-    padding-top: 50px;
-    width: 40%;
+    padding-top: 30px;
+    width: 60%;
     float: left;
     padding-bottom: 10px;
 }
@@ -755,8 +755,8 @@ header{
 
 #aboutdata {
     padding-top: 20px;
-    width: 50%;
-    float: right;
+    width: 70%;
+    float: left;
     font-size: 14px;
     text-align: left;
     color: #ffffff;
