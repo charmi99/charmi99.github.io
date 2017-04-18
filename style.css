@@ -738,6 +738,7 @@ header{
 
 #project .container img{
   min-height: 200px;
+  width: 85%;
 
 }
 
