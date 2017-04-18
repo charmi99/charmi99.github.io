@@ -592,7 +592,7 @@ footer{
   float:center;
   text-align: center;
   width:70%;
-  border: #ffffff;
+  border: #00D9D9;
 }
 
 #boxes .box img{
@@ -674,7 +674,7 @@ header{
   float:center;
   text-align: center;
   width:50%;
-  border: #ffffff;
+  border: #00D9D9;
 }
 
 #boxes .box img{
@@ -730,7 +730,7 @@ header{
 #projectshowcase p{
   margin-top:20px;
   font-size:24px;
-  margin-bottom:30px;
+  margin-bottom:20px;
   color: #E37222;
 
 }
@@ -767,7 +767,7 @@ header{
   float:center;
   text-align: center;
   width:90%;
-  border: #ffffff;
+  border: #00D9D9;
 }
 
 #boxes .box img{
