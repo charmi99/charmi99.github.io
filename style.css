@@ -746,16 +746,16 @@ header{
 }
 
 #aboutimage {
-    padding-top: 30px;
-    width: 60%;
+    padding-top: 20px;
+    width: 70%;
     float: left;
     padding-bottom: 10px;
 }
 
 
 #aboutdata {
-    padding-top: 20px;
-    width: 70%;
+    padding-top: 10px;
+    width: 90%;
     float: left;
     font-size: 14px;
     text-align: left;
