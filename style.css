@@ -21,7 +21,7 @@ nav ul{
 
 /* Header **/
 header{
-  background:#000000;
+  background:#0C2535;
   color:#00D9D9;
   padding-top:30px;
   min-height:80px;
@@ -131,7 +131,7 @@ header .current a{
 /* ProjectShowcase */
 
 #projectshowcase {
- 	background-color: #000000;
+ 	background-color: #0D2C3E;
  	/* border-bottom:#D3D3D3 2px solid; */
 }
 
@@ -147,7 +147,7 @@ header .current a{
 /* Personal content */
 
 #personalcontent {
-	background-color: #000000;
+	background-color: #0D2C3E;
 	padding-bottom: 30px;
 }
 
@@ -168,7 +168,7 @@ header .current a{
 
 /* Projectcontent */
 #projectcontent {
- 	background-color: #000000;
+ 	background-color: #0D2C3E;
  	/* border-bottom:#D3D3D3 2px solid; */
 }
 
@@ -215,7 +215,7 @@ header .current a{
 
 #resume {
 padding-top: 15px;
-background-color: #000000;	
+background-color: #0D2C3E;	
 padding-bottom: 5px;
 }
 
@@ -234,7 +234,7 @@ padding-bottom: 5px;
 }
 
 #resumecontent {
- 	background-color: #000000;
+ 	background-color: #0D2C3E;
  	/* border-bottom:#D3D3D3 2px solid; */
 }
 
@@ -271,7 +271,7 @@ padding-bottom: 5px;
 
 
 #aboutcontent {
- 	background-color: #000000;
+ 	background-color: #0D2C3E	;
  	/* border-bottom:#D3D3D3 2px solid; */
 }
 
@@ -418,7 +418,7 @@ padding-bottom: 5px;
 
 
 #boxes{
-  background-color: #000000;
+  background-color: #0D2C3E;
   padding-bottom: 40px; 
   
 }
@@ -437,7 +437,7 @@ padding-bottom: 5px;
  }
 
 #boxes1{
-  background-color: #000000;
+  background-color: #0D2C3E;
   
 }
 
@@ -482,7 +482,7 @@ padding-top: 15px;
 	font-size: 22px;
 	color: #e37222;
 	text-align: left;
-	background-color: #000000;
+	background-color: #0D2C3E;
 	padding-bottom: 20px;
 	;
 }
@@ -503,7 +503,7 @@ footer{
   padding:13px;
   
   color:#ffffff;
-  background-color:#000000;
+  background-color:#0C2535;
   text-align: center;
   font-size:12px;
   border-top:#00c6c6 2px solid;
@@ -512,7 +512,7 @@ footer{
 
 
 /* Media Queries */
-@media(max-width: 769px){
+@media(max-width: 768px){
   header #branding, header #highlight1,
   header nav,
   header nav li
@@ -798,7 +798,7 @@ header{
 	font-size: 18px;
 	color: #e37222;
 	text-align: left;
-	background-color: #000000;
+	background-color: #0D2C3E;
 	padding-bottom: 10px;
 	;
 }
